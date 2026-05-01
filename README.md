@@ -390,15 +390,3 @@ sublicense, and/or sell copies of the Software.
 ```
 
 ---
-
-<div align="center">
-
-**☁️ Smart Tech for a Sustainable Future**
-
-*Efficient today, sustainable tomorrow.*
-
-**SRM Institute of Science and Technology**
-
-⭐ Star this repo if you found it useful!
-
-</div>
